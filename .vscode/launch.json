@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SuonaConGigiApplication<suona-gigi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "it.generation.suonacongigi.SuonaConGigiApplication",
+            "projectName": "suona-gigi",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
